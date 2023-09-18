@@ -1,11 +1,11 @@
-# CryptoFolio
+# CryptoSpy
 
-CryptoFolio WebApp built with React is a crypto currency tracking and portfolio site. It is a very handy tool for crypto currency investors. You can watch the price, marketcap graph of any crypto currency , and predict possible future price.
+CryptoSpy Web-Application built with React is a crypto currency tracking and portfolio site. It is a very handy tool for crypto currency investors. One can watch the price, market cap graph of any crypto currency , and predict possible future prices.
 
 ## Features
   - Various Crypto Currencies are available
   - Analyse of each cryptocoins prices and marketcap graph
-  - Filter your search
+  - Filter one's search
   - Graph contains prices and marketcap data upto a year
   - Important links like Main website, source code, discords and blog site is provided for each Crypto Currencies
   - Dark mode
@@ -21,21 +21,13 @@ CryptoFolio WebApp built with React is a crypto currency tracking and portfolio 
 
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" />   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="ftailwind" />   
 
-## Credit
+## Credits
  - <a href="https://www.npmjs.com/package/react-chartjs-2" >Chart js</a>
  - <a href="https://www.npmjs.com/package/react-loading-skeleton" >React Loading Skleleton</a>
  - <a href="https://www.npmjs.com/package/react-alice-carousel" >React Alice Carouse</a>
  - <a href="https://v4.mui.com/" >Material ui</a>
  - <a href="https://www.coingecko.com/en/api/documentation" >CryptoGecko Api</a>
-
-## To Do
-
-<ul>
-  <li>[ ] login/signup authentication</li>
-  <li>[ ] Watchlist</li>
-</ul>
-
-
+ 
 ### Installation
 
 ```
