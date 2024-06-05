@@ -22,8 +22,10 @@ CryptoSpy Web-Application built with React is a crypto currency tracking and por
 
 
 ## Tech Stack
-
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react" />   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="ftailwind" />   
+* HTML
+* CSS
+* JS
+* REACT
 
 ## Credits
  - <a href="https://www.npmjs.com/package/react-chartjs-2" >Chart js</a>
